@@ -5,7 +5,7 @@ This Python project provides a random number generator that predicts the next nu
 
 ## Installation
 
-1. Ensure you have Python installed. You can download it from [python.org](https://www.python.org/downloads/).
+1. Ensure you have Python installed.
 
 2. Clone this repository to your local machine:
 
@@ -15,7 +15,7 @@ This Python project provides a random number generator that predicts the next nu
 
 cd random-number-generator
 
-Install the required dependencies using pip:
+## Install the required dependencies using pip:
 
 pip install -r requirements.txt
 
